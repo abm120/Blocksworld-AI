@@ -1,5 +1,5 @@
 """
-CSCE 625: AI Project 1:-
+Project:
 BlocksWorld Implementation - Heuristic Search Problem -implemented using Heap Data Structure.
 Author: @Anil B Murthy
 Software used: Enthought Canopy Environment
